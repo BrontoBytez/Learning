@@ -44,3 +44,6 @@ Repo of information for getting up to speed for Kaggle competition participation
 ## R Resources
 
 ## Practice Competitions
+
+- https://www.kaggle.com/c/titanic
+- https://www.kaggle.com/c/bioresponse
