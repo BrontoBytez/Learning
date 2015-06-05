@@ -21,6 +21,12 @@ Repo of information for getting up to speed for Kaggle competition participation
 
 ## Machine Learning Resources
 
+### Books
+* [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+
+### Websites
+* [Data Science Centre](http://www.datasciencecentral.com/)
+
 ## Python Resources
 
 ### Basic Python
