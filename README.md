@@ -43,12 +43,12 @@ Repo of information for getting up to speed for Kaggle competition participation
 
 ## R Resources
 
-### Recommended Libraries
-The following libraries are frequently used in data analysis and modeling. Spend some time on studying them and they would become your powerful weapons.
+### Key Libraries
+The following libraries are frequently used in data analysis and modeling. Spend some time on studying them and they would eventually become your powerful weapons.
 
-* plyr
-* caret
-* ggplot2
+* plyr - manipulating data frame.
+* caret - data modeling
+* ggplot2 - graph plotting
 
 ## Practice Competitions
 
