@@ -49,6 +49,10 @@ The following libraries are frequently used in data analysis and modeling. Spend
 * plyr - manipulating data frame.
 * caret - data modeling
 * ggplot2 - graph plotting
+ 
+### Technical Reading
+* [Tutorial for Kaggle titantic]{https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md}
+
 
 ## Practice Competitions
 
