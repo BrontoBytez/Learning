@@ -15,6 +15,7 @@ Repo of information for getting up to speed for Kaggle competition participation
 The following models are common supervised learning model
 * [Gradient boosting] (http://en.wikipedia.org/wiki/Gradient_boosting)
 * [Random forest] (http://en.wikipedia.org/wiki/Random_forest)
+* [Support vector machine] (http://en.wikipedia.org/wiki/Support_vector_machine)
 
 ### Validating/Assessing Model
 
