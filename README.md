@@ -54,7 +54,7 @@ The following models are common supervised learning model
 ## R Resources
 
 ### Workspace
-[RStudio]{www.rstudio.com/} is a GUI development platform.
+[RStudio](www.rstudio.com/) is a GUI development platform.
 
 ### Key Libraries
 The following libraries are frequently used in data analysis and modeling. Spend some time on studying them and they would eventually become your powerful weapons.
