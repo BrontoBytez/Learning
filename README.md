@@ -13,8 +13,8 @@ Repo of information for getting up to speed for Kaggle competition participation
 
 ### Building a Model
 The following models are common supervised learning model
-* [Gradient boosting] {http://en.wikipedia.org/wiki/Gradient_boosting}
-* [Random forest] {http://en.wikipedia.org/wiki/Random_forest}
+* [Gradient boosting] (http://en.wikipedia.org/wiki/Gradient_boosting)
+* [Random forest] (http://en.wikipedia.org/wiki/Random_forest)
 
 ### Validating/Assessing Model
 
