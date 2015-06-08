@@ -50,7 +50,7 @@ Python Track
      * [Problems](https://developers.google.com/edu/python/exercises/basic)
      * [Material](https://developers.google.com/edu/python/set-up)
 
-  2) Google Python Style Guide
+  * Google Python Style Guide
      * [Style Guide](https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
      
 ### Key Libraries
