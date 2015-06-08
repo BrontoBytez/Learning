@@ -45,13 +45,13 @@ The following models are common supervised learning model
 ### Basic Python
 Python Track
   1) Google's Python Class
-     -Link: https://developers.google.com/edu/python/
-     -Videos: https://www.youtube.com/watch?v=tKTZoB2Vjuk
-     -Problems: https://developers.google.com/edu/python/exercises/basic
-     -Material: https://developers.google.com/edu/python/set-up
+     * [Link]: (https://developers.google.com/edu/python/)
+     * [Videos]: (https://www.youtube.com/watch?v=tKTZoB2Vjuk)
+     * [Problems]: (https://developers.google.com/edu/python/exercises/basic)
+     * [Material]: (https://developers.google.com/edu/python/set-up)
 
   2) Google Python Style Guide
-     -https://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+     * [Style Guide] (https://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
      
 ### Key Libraries
 
@@ -76,12 +76,12 @@ Python Track
 
 ### Practice with Python
 1) Learn Python Through Public Data Hacking
-    -Youtube Video:https: //www.youtube.com/watch?v=RrPZza_vZ3w
-    -Code Samples and Resources: http://dabeaz.com/pydata/
+    * [Youtube Video] (https: //www.youtube.com/watch?v=RrPZza_vZ3w)
+    * [Code Samples and Resources] (http://dabeaz.com/pydata/)
 
  2) Twitter Sentiment Analysis with Python
-    -Instructions: https://class.coursera.org/datasci-002/assignment/view?assignment_id=3
-    -GitHub Repo: git clone https://github.com/uwescience/datasci_course_materials.git
+    * [Instructions] (https://class.coursera.org/datasci-002/assignment/view?assignment_id=3)
+    * [GitHub Repo] (git clone https://github.com/uwescience/datasci_course_materials.git)
 
 ## R Resources
 
