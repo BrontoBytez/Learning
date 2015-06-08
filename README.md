@@ -2,9 +2,12 @@
 Repo of information for getting up to speed for Kaggle competition participation
 
 ## Data Science Overview Resources
+* [Open Data Science Masters] (http://datasciencemasters.org/)
 
 ### Getting Data
-
+The dataset is provided by Kaggle ordinarily. If you are interested in practicing here is a great list of free data sources
+* [US Government's Open Data] (http://www.data.gov/)
+* 
 ### Exploring Data
 
 ### Munging/Cleaning Data
@@ -26,6 +29,8 @@ The following models are common supervised learning model
 ## Machine Learning Resources
 
 ### Books
+
+
 ### R Language
 * [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
 
@@ -34,23 +39,49 @@ The following models are common supervised learning model
 
 ## Python Resources
 
-### Basic Python
+### Books
+*[Python For Data Analysis] (http://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
 
+### Basic Python
+Python Track
+  1) Google's Python Class
+     -Link: https://developers.google.com/edu/python/
+     -Videos: https://www.youtube.com/watch?v=tKTZoB2Vjuk
+     -Problems: https://developers.google.com/edu/python/exercises/basic
+     -Material: https://developers.google.com/edu/python/set-up
+
+  2) Google Python Style Guide
+     -https://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+     
 ### Key Libraries
 
 #### Ipython Notebook
+*[Docs](http://ipython.org/notebook.html)
 
 #### Pandas
-
+* [Docs](http://pandas.pydata.org/index.html)
+ 
 #### NumPy
+* [Docs](http://www.numpy.org/) 
 
 #### SciPy
+* [Docs] (http://www.scipy.org/)
 
 #### Matplotlib
+* [Docs] (http://matplotlib.org/index.html)
 
 #### Scikitlearn
+* [Docs] (http://scikit-learn.org/stable/)
+* [Video Tutorial](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
 
 ### Practice with Python
+1) Learn Python Through Public Data Hacking
+    -Youtube Video:https: //www.youtube.com/watch?v=RrPZza_vZ3w
+    -Code Samples and Resources: http://dabeaz.com/pydata/
+
+ 2) Twitter Sentiment Analysis with Python
+    -Instructions: https://class.coursera.org/datasci-002/assignment/view?assignment_id=3
+    -GitHub Repo: git clone https://github.com/uwescience/datasci_course_materials.git
 
 ## R Resources
 
