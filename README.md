@@ -7,7 +7,7 @@ Repo of information for getting up to speed for Kaggle competition participation
 ### Getting Data
 The dataset is provided by Kaggle ordinarily. If you are interested in practicing here is a great list of free data sources
 * [US Government's Open Data](http://www.data.gov/)
-* 
+
 ### Exploring Data
 
 ### Munging/Cleaning Data
@@ -40,7 +40,7 @@ The following models are common supervised learning model
 ## Python Resources
 
 ### Books
-*[Python For Data Analysis](http://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
+* [Python For Data Analysis](http://www.cin.ufpe.br/~embat/Python%20for%20Data%20Analysis.pdf)
 
 ### Basic Python
 Python Track
@@ -68,16 +68,16 @@ Python Track
 * [Docs] (http://www.scipy.org/)
 
 #### Matplotlib
-* [Docs] (http://matplotlib.org/index.html)
+* [Docs](http://matplotlib.org/index.html)
 
 #### Scikitlearn
-* [Docs] (http://scikit-learn.org/stable/)
+* [Docs](http://scikit-learn.org/stable/)
 * [Video Tutorial](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)
 
 ### Practice with Python
 * Learn Python Through Public Data Hacking
-    * [Youtube Video] (https: //www.youtube.com/watch?v=RrPZza_vZ3w)
-    * [Code Samples and Resources] (http://dabeaz.com/pydata/)
+    * [Youtube Video](https: //www.youtube.com/watch?v=RrPZza_vZ3w)
+    * [Code Samples and Resources](http://dabeaz.com/pydata/)
 
 * Twitter Sentiment Analysis with Python
     * [Instructions](https://class.coursera.org/datasci-002/assignment/view?assignment_id=3)
