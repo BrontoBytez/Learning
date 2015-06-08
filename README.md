@@ -12,6 +12,10 @@ Repo of information for getting up to speed for Kaggle competition participation
 ### Analyzing Data
 
 ### Building a Model
+The following models are common supervised learning model
+* [Gradient boosting] (http://en.wikipedia.org/wiki/Gradient_boosting)
+* [Random forest] (http://en.wikipedia.org/wiki/Random_forest)
+* [Support vector machine] (http://en.wikipedia.org/wiki/Support_vector_machine)
 
 ### Validating/Assessing Model
 
@@ -20,6 +24,13 @@ Repo of information for getting up to speed for Kaggle competition participation
 ### Finalizing Model
 
 ## Machine Learning Resources
+
+### Books
+### R Language
+* [An Introduction to Statistical Learning: with Applications in R](http://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)
+
+### Websites
+* [Data Science Centre](http://www.datasciencecentral.com/)
 
 ## Python Resources
 
@@ -42,6 +53,20 @@ Repo of information for getting up to speed for Kaggle competition participation
 ### Practice with Python
 
 ## R Resources
+
+### Workspace
+[RStudio](www.rstudio.com/), a GUI development platform.
+
+### Key Libraries
+The following libraries are frequently used in data analysis and modeling. Spend some time on studying them and they would eventually become your powerful weapons.
+
+* plyr - manipulating data frame.
+* caret - data modeling
+* ggplot2 - graph plotting
+ 
+### Technical Reading
+* [Tutorial for Kaggle titantic](https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md)
+
 
 ## Practice Competitions
 
